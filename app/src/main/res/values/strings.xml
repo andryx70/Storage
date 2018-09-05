@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Storage</string>
+    <string name="btn_download">Descargar</string>
+    <string name="btn_upload">Subir</string>
 </resources>
